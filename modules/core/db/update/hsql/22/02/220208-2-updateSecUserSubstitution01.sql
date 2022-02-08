@@ -1,0 +1,1 @@
+update SEC_USER_SUBSTITUTION set DTYPE = 'extend_Substitution' where DTYPE is null ;
