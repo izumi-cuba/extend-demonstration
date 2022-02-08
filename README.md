@@ -1,4 +1,4 @@
-CUBA extend demonstration
+# CUBA extend demonstration
 
 A project to demonstrate that @Extend works in CUBA
 
